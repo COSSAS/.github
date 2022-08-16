@@ -1,9 +1,9 @@
 # COSSAS - The Community for Open Source Security Automation Software ⚙️
 
-Welcome to COSSAS on Github! In this organization, we share all of our open-source security components, ready for you to use.
+Welcome to COSSAS on GitHub! In this organization, we share all of our open-source security components, ready for you to use. All repositories are push-mirrored from [GitLab](https://gitlab.com/cossas).
 
 - Do you want to contribute to any of our repositories? [Check out our contributor guidelines](https://gitlab.com/cossas/home/-/blob/main/CONTRIBUTING.md)
-- Interested in the COSSAS project? [Check out our website](https://cossas-project.org)
+- Are you interested in the COSSAS project? [Visit our website](https://cossas-project.org)
 
 ### Software
 
